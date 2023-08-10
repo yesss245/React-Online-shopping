@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: 'Rubik', sans-serif;
+  
+}
+
+.font-size{
+ color: rgb(12, 100, 21) !important;
+ font-weight: 800;
+}

@@ -1,0 +1,36 @@
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  top: 5vmax;
+}
+
+.speedDialIcon {
+  position: fixed;
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+:root{
+  --color-000000 : #000000;
+  --color-131a22 : #131a22;
+}
+p{
+  font-weight: 300;
+  margin : 0;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+}
+nav{
+  background-color: var(--color-000000);
+}
+header{
+  background-color: var(--color-131a22);
+}
+.center{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
